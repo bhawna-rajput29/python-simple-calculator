@@ -13,3 +13,7 @@ This is a basic Python project that performs simple arithmetic operations (Addit
 - Get the result!
 
 ## 👩‍💻 Sample Run
+Enter first number: 10
+Enter operator (+, -, *, /): *
+Enter second number: 5
+Result: 50
